@@ -11,7 +11,6 @@ Run
 
 Devboxes
 
-
-tail -f nohup.out
+(cd ~/work/LLM-hello-world/gutenberg && tail -f nohup.out)
 
 ps -aux | grep -E "python|rsync"
