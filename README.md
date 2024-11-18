@@ -1,4 +1,9 @@
 
-source myenv/bin/activate
+Setup
+- `python3 -m venv myenv` (if not created yet)
 
-pip install -r requirements.txt
+Run
+
+- source myenv/bin/activate
+
+- pip install -r requirements.txt
