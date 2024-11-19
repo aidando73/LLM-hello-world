@@ -3,3 +3,5 @@ myenv/
 gutenberg/
 model.pth
 gpt2/
+sms_spam_collection.zip
+sms_spam_collection/
