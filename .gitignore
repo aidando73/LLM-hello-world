@@ -6,3 +6,4 @@ gpt2/
 sms_spam_collection.zip
 sms_spam_collection/
 review_classifier.pth
+gpt2-medium355M-sft.pth
