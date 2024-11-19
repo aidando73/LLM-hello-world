@@ -1,6 +1,7 @@
 tiktoken==0.7.0
 torch
-numpy
-matplotlib
+numpy >= 1.25, < 2.0
+pandas == 2.2.1
+matplotlib == 3.7.1
 tensorflow==2.15.0
 tqdm==4.66
